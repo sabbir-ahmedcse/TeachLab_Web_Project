@@ -1,0 +1,122 @@
+[
+  {
+    "id": "robot_003",
+    "title": "Smart Home Automation System",
+    "description": "ESP32 ব্যবহার করে একটি স্মার্ট হোম সিস্টেম যা ইন্টারনেটের মাধ্যমে ঘরের লাইট, ফ্যান এবং এসি নিয়ন্ত্রণ করতে পারে। এটি Blynk অ্যাপের সাথে কানেক্টেড।",
+    "imageUrl": "https://i.ibb.co.com/9HWZYg1Y/image.png",
+    "difficulty": "Intermediate",
+    "application": "হোম অটোমেশন, আইওটি (IoT) বেসড কন্ট্রোল",
+    "components": ["ESP32 Development Board", "4-Channel Relay Module", "DHT11 Sensor", "Jumper Wires", "Power Adapter"],
+    "voltage": "5V",
+    "programmingLanguage": "Arduino C++, MicroPython",
+    "features": ["ওয়াই-ফাই ক্লাউড কানেক্টিভিটি", "স্মার্টফোন অ্যাপ কন্ট্রোল", "ভয়েস কমান্ড সাপোর্ট (Alexa/Google Home)"]
+  },
+  {
+    "id": "robot_004",
+    "title": "Line Follower Robot (LFR)",
+    "description": "কালো রাস্তার ওপর দিয়ে স্বয়ংক্রিয়ভাবে চলতে সক্ষম একটি রোবট। এটি IR সেন্সর ব্যবহার করে সাদা ও কালো রঙের পার্থক্য বুঝতে পারে।",
+    "imageUrl": "https://i.ibb.co.com/PZDNYnWq/image.png",
+    "difficulty": "Beginner",
+    "application": "ইন্ডাস্ট্রিয়াল অটোমেশন, লজিস্টিকস",
+    "components": ["Arduino Nano", "IR Sensor Module x5", "L298N Motor Driver", "BO DC Motors x2", "Chassis Kit", "Li-ion Battery"],
+    "voltage": "7.4V-12V",
+    "programmingLanguage": "Arduino C++",
+    "features": ["পিআইডি (PID) কন্ট্রোল সাপোর্ট", "হাই-স্পিড নেভিগেশন", "সহজ ক্যালিব্রেশন"]
+  },
+  {
+    "id": "robot_005",
+    "title": "Voice Controlled Wheelchair",
+    "description": "প্রতিবন্ধী ব্যক্তিদের জন্য তৈরি একটি হুইলচেয়ার যা ব্লুটুথের মাধ্যমে মানুষের কণ্ঠস্বরে (Voice Commands) দিক পরিবর্তন করতে পারে।",
+    "imageUrl": "https://i.ibb.co.com/vCrw6tr2/image.png",
+    "difficulty": "Intermediate",
+    "application": "এসিস্টিভ টেকনোলজি, হেলথকেয়ার",
+    "components": ["Arduino Uno", "HC-05 Bluetooth Module", "L298N Motor Driver", "High Torque DC Motors", "Chassis"],
+    "voltage": "12V",
+    "programmingLanguage": "Arduino C++",
+    "features": ["অ্যান্ড্রয়েড অ্যাপ ইন্টিগ্রেশন", "জরুরী স্টপ বাটন", "স্মুথ মুভমেন্ট"]
+  },
+  {
+    "id": "robot_006",
+    "title": "GSM Based Gas Leakage Detector",
+    "description": "রান্নাঘরে গ্যাসের লিকেজ ডিটেক্ট করার জন্য এই সিস্টেম। গ্যাস লিক হলে এটি স্বয়ংক্রিয়ভাবে মালিকের ফোনে SMS পাঠাবে এবং অ্যালার্ম বাজাবে।",
+    "imageUrl": "https://i.ibb.co.com/tTWnmRPW/image.png",
+    "difficulty": "Beginner",
+    "application": "ইন্ডাস্ট্রিয়াল ও হোম সেফটি",
+    "components": ["Arduino Uno", "MQ-2 Gas Sensor", "SIM800L GSM Module", "Buzzer", "LCD Display (16x2)"],
+    "voltage": "5V-9V",
+    "programmingLanguage": "Arduino C++",
+    "features": ["রিয়েল-টাইম SMS এলার্ট", "ডিজিটাল ডিসপ্লে মনিটরিং", "অটোমেটিক ফ্যান এক্সজস্ট কন্ট্রোল"]
+  },
+  {
+    "id": "robot_007",
+    "title": "IoT Weather Monitoring Station",
+    "description": "একটি পোর্টেবল ডিভাইস যা আবহাওয়া পরিমাপ করে (তাপমাত্রা, আর্দ্রতা, বায়ুর চাপ) এবং ডেটা অনলাইনে সার্ভারে সেভ করে।",
+    "imageUrl": "https://i.ibb.co.com/qzd12vH/image.png",
+    "difficulty": "Intermediate",
+    "application": "পরিবেশ পর্যবেক্ষণ, কৃষি প্রযুক্তি",
+    "components": ["NodeMCU (ESP8266)", "DHT22 Sensor", "BMP280 Pressure Sensor", "Rain Sensor", "OLED Display"],
+    "voltage": "3.3V-5V",
+    "programmingLanguage": "Arduino C++",
+    "features": ["অনলাইন ডেটা লগিং (ThingSpeak)", "ব্যাটারি চালিত", "কমপ্যাক্ট ডিজাইন"]
+  },
+  {
+    "id": "robot_008",
+    "title": "Fingerprint Door Lock System",
+    "description": "উন্নত নিরাপত্তা নিশ্চিত করার জন্য আঙুলের ছাপ (Biometric) ব্যবহার করে দরজা খোলার ইলেকট্রনিক সিস্টেম।",
+    "imageUrl": "https://i.ibb.co.com/67M2H7Q8/image.png",
+    "difficulty": "Advanced",
+    "application": "সিকিউরিটি সিস্টেম, স্মার্ট অফিস",
+    "components": ["Arduino Nano", "R307 Optical Fingerprint Sensor", "12V Solenoid Door Lock", "Relay Module", "Buzzer"],
+    "voltage": "12V",
+    "programmingLanguage": "Arduino C++",
+    "features": ["একাধিক ফিঙ্গারপ্রিন্ট স্টোরেজ", "ভুল ফিঙ্গারপ্রিন্ট এলার্ম", "এডমিন মোড এক্সেস"]
+  },
+  {
+    "id": "robot_009",
+    "title": "Self-Balancing Robot",
+    "description": "দুই চাকার ওপর ভর করে দাঁড়িয়ে থাকতে সক্ষম এমন একটি রোবট যা জাইরোস্কোপ সেন্সর ব্যবহার করে নিজের ব্যালেন্স রক্ষা করে।",
+    "imageUrl": "https://i.ibb.co.com/s74pMx7/image.png",
+    "difficulty": "Advanced",
+    "application": "পার্সোনাল ট্রান্সপোর্টেশন, ব্যালেন্সিং সিস্টেম",
+    "components": ["Arduino Uno", "MPU6050 Accelerometer/Gyro", "NEMA 17 Stepper Motors x2", "A4988 Motor Driver", "Sturdy Frame"],
+    "voltage": "11.1V (Li-Po)",
+    "programmingLanguage": "Arduino C++",
+    "features": ["PID এলগরিদম ব্যবহার", "রিয়েল-টাইম স্ট্যাবিলিটি", "স্মার্টফোন কন্ট্রোল (ঐচ্ছিক)"]
+  },
+  {
+    "id": "robot_010",
+    "title": "Smart Irrigation System",
+    "description": "মাটির আর্দ্রতা মেপে স্বয়ংক্রিয়ভাবে গাছে পানি দেওয়ার সিস্টেম। এটি পানির অপচয় রোধ করে এবং কৃষিকাজ সহজ করে।",
+    "imageUrl": "https://i.ibb.co.com/FqzJbc7r/image.png",
+    "difficulty": "Beginner",
+    "application": "আধুনিক কৃষি, ছাদ বাগান",
+    "components": ["Arduino Uno", "Soil Moisture Sensor", "Submersible Water Pump", "Relay Module", "Water Tank"],
+    "voltage": "5V-9V",
+    "programmingLanguage": "Arduino C++",
+    "features": ["অটোমেটিক পাম্প কন্ট্রোল", "লো-ওয়াটার লেভেল এলার্ট", "ম্যানুয়াল ওভাররাইড সুইচ"]
+  },
+  {
+    "id": "robot_011",
+    "title": "Hexapod Spider Robot",
+    "description": "৬টি পা বিশিষ্ট একটি রোবট যা মাকড়সার মতো হাঁটতে পারে এবং বিভিন্ন বাধা অতিক্রম করতে পারে।",
+    "imageUrl": "https://i.ibb.co.com/fYZQqKQ9/image.png",
+    "difficulty": "Advanced",
+    "application": "সার্চ অ্যান্ড রেসকিউ, এডভান্সড কাইনেমেটিক্স",
+    "components": ["Arduino Mega", "MG996R High Torque Servos x18", "PCA9685 PWM Driver", "Bluetooth Module", "3D Printed Body"],
+    "voltage": "6V-7.4V",
+    "programmingLanguage": "Arduino C++",
+    "features": ["জটিল কাইনেমেটিক্স মুভমেন্ট", "একাধিক ওয়াকিং প্যাটার্ন", "রিমোট কন্ট্রোল অপারেশন"]
+  },
+  {
+    "id": "robot_012",
+    "title": "Gesture Controlled Car",
+    "description": "হাতের ইশারায় (Hand Gesture) চালিত রোবট কার। এক্সেলেরোমিটার সেন্সর ব্যবহার করে হাতের মুভমেন্ট রিড করা হয়।",
+    "imageUrl": "https://i.ibb.co.com/1fL527fW/image.png",
+    "difficulty": "Intermediate",
+    "application": "হিউম্যান-মেশিন ইন্টারঅ্যাকশন",
+    "components": ["Arduino Uno x2", "ADXL345 Accelerometer", "NRF24L01 Wireless Module", "L298N Driver", "Motors & Wheels"],
+    "voltage": "9V",
+    "programmingLanguage": "Arduino C++",
+    "features": ["ওয়্যারলেস কন্ট্রোল (RF)", "ইনটুইটিভ ইউজার ইন্টারফেস", "দ্রুত রেসপন্স টাইম"]
+  }
+]

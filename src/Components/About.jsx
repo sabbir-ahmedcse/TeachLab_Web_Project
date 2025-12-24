@@ -126,7 +126,7 @@ const About = () => {
           >
             <div className="inline-flex items-center gap-2 bg-white/10 backdrop-blur-sm px-4 py-2 rounded-full mb-6">
               <FaGraduationCap className="text-blue-300" />
-              <span className="text-sm font-semibold">CST Department - Team 7175</span>
+              <span className="text-sm font-semibold">CST Department - Team 4</span>
             </div>
             
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6">

@@ -38,7 +38,7 @@ const Home = () => {
         {dataPromise.length > 6 && (
           <div className="text-center mt-12">
             <NavLink to='/gallery' className="px-8 py-3 bg-gradient-to-r from-gray-800 to-gray-900 text-white rounded-xl font-semibold hover:shadow-xl transition-all duration-300">
-              View All Projects ({dataPromise.length})
+              View All 
             </NavLink>
           </div>
         )}

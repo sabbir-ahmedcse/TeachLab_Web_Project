@@ -102,7 +102,7 @@ const Banner = () => {
               className="inline-flex items-center gap-2 bg-gradient-to-r from-blue-600 to-teal-500 text-white px-4 py-2 rounded-full mb-6"
             >
               <span className="w-2 h-2 bg-white rounded-full animate-pulse"></span>
-              <span className="text-sm font-semibold">🌟 Trusted by 50K+ Students</span>
+              <span className="text-sm font-semibold">🌟 Trusted by 500+ Students</span>
             </motion.div>
 
             {/* Main Title */}

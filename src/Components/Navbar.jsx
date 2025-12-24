@@ -103,7 +103,7 @@ const Navbar = () => {
   // Get current user menu items based on role
   const getCurrentUserMenuItems = () => {
     // Check if user is admin (you need to implement your own admin check logic)
-    const isAdmin = user?.email === 'admin@teachlab.com' || user?.uid === 'admin-id';
+    const isAdmin = user?.email === 'admin@techlab.com' || user?.uid === 'admin-id';
     return isAdmin ? adminMenuItems : userMenuItems;
   };
 
@@ -128,7 +128,7 @@ const Navbar = () => {
               </div>
               <div className="flex flex-col">
                 <span className="text-2xl font-bold bg-gradient-to-r from-blue-600 to-teal-500 bg-clip-text text-transparent">
-                  TeachLab
+                  TechLab
                 </span>
                 <span className="text-xs text-gray-500 font-medium">Learning Platform</span>
               </div>

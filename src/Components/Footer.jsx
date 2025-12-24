@@ -87,7 +87,7 @@ const Footer = () => {
               </div>
               <div>
                 <h2 className="text-2xl font-bold bg-gradient-to-r from-blue-400 to-teal-300 bg-clip-text text-transparent">
-                  TeachLab
+                  TechLab
                 </h2>
                 <p className="text-gray-400 text-sm">Empowering Learners Worldwide</p>
               </div>
@@ -226,7 +226,7 @@ const Footer = () => {
                 <FaEnvelope className="text-blue-400 text-xl" />
               </div>
               <h4 className="font-semibold mb-1">Email Us</h4>
-              <a href="mailto:support@teachlab.com" className="text-blue-400 hover:text-blue-300 transition-colors duration-300">
+              <a href="mailto:support@techlab.com" className="text-blue-400 hover:text-blue-300 transition-colors duration-300">
                 mdsabbirahmedcst@gmail.com
               </a>
             </div>

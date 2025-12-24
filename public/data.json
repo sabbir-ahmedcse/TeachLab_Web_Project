@@ -6,10 +6,20 @@
     "imageUrl": "https://i.ibb.co.com/9HWZYg1Y/image.png",
     "difficulty": "Intermediate",
     "application": "হোম অটোমেশন, আইওটি (IoT) বেসড কন্ট্রোল",
-    "components": ["ESP32 Development Board", "4-Channel Relay Module", "DHT11 Sensor", "Jumper Wires", "Power Adapter"],
+    "components": [
+      "ESP32 Development Board",
+      "4-Channel Relay Module",
+      "DHT11 Sensor",
+      "Jumper Wires",
+      "Power Adapter"
+    ],
     "voltage": "5V",
     "programmingLanguage": "Arduino C++, MicroPython",
-    "features": ["ওয়াই-ফাই ক্লাউড কানেক্টিভিটি", "স্মার্টফোন অ্যাপ কন্ট্রোল", "ভয়েস কমান্ড সাপোর্ট (Alexa/Google Home)"]
+    "features": [
+      "ওয়াই-ফাই ক্লাউড কানেক্টিভিটি",
+      "স্মার্টফোন অ্যাপ কন্ট্রোল",
+      "ভয়েস কমান্ড সাপোর্ট (Alexa/Google Home)"
+    ]
   },
   {
     "id": "robot_004",
@@ -18,10 +28,21 @@
     "imageUrl": "https://i.ibb.co.com/PZDNYnWq/image.png",
     "difficulty": "Beginner",
     "application": "ইন্ডাস্ট্রিয়াল অটোমেশন, লজিস্টিকস",
-    "components": ["Arduino Nano", "IR Sensor Module x5", "L298N Motor Driver", "BO DC Motors x2", "Chassis Kit", "Li-ion Battery"],
+    "components": [
+      "Arduino Nano",
+      "IR Sensor Module x5",
+      "L298N Motor Driver",
+      "BO DC Motors x2",
+      "Chassis Kit",
+      "Li-ion Battery"
+    ],
     "voltage": "7.4V-12V",
     "programmingLanguage": "Arduino C++",
-    "features": ["পিআইডি (PID) কন্ট্রোল সাপোর্ট", "হাই-স্পিড নেভিগেশন", "সহজ ক্যালিব্রেশন"]
+    "features": [
+      "পিআইডি (PID) কন্ট্রোল সাপোর্ট",
+      "হাই-স্পিড নেভিগেশন",
+      "সহজ ক্যালিব্রেশন"
+    ]
   },
   {
     "id": "robot_005",
@@ -30,10 +51,20 @@
     "imageUrl": "https://i.ibb.co.com/vCrw6tr2/image.png",
     "difficulty": "Intermediate",
     "application": "এসিস্টিভ টেকনোলজি, হেলথকেয়ার",
-    "components": ["Arduino Uno", "HC-05 Bluetooth Module", "L298N Motor Driver", "High Torque DC Motors", "Chassis"],
+    "components": [
+      "Arduino Uno",
+      "HC-05 Bluetooth Module",
+      "L298N Motor Driver",
+      "High Torque DC Motors",
+      "Chassis"
+    ],
     "voltage": "12V",
     "programmingLanguage": "Arduino C++",
-    "features": ["অ্যান্ড্রয়েড অ্যাপ ইন্টিগ্রেশন", "জরুরী স্টপ বাটন", "স্মুথ মুভমেন্ট"]
+    "features": [
+      "অ্যান্ড্রয়েড অ্যাপ ইন্টিগ্রেশন",
+      "জরুরী স্টপ বাটন",
+      "স্মুথ মুভমেন্ট"
+    ]
   },
   {
     "id": "robot_006",
@@ -42,10 +73,20 @@
     "imageUrl": "https://i.ibb.co.com/tTWnmRPW/image.png",
     "difficulty": "Beginner",
     "application": "ইন্ডাস্ট্রিয়াল ও হোম সেফটি",
-    "components": ["Arduino Uno", "MQ-2 Gas Sensor", "SIM800L GSM Module", "Buzzer", "LCD Display (16x2)"],
+    "components": [
+      "Arduino Uno",
+      "MQ-2 Gas Sensor",
+      "SIM800L GSM Module",
+      "Buzzer",
+      "LCD Display (16x2)"
+    ],
     "voltage": "5V-9V",
     "programmingLanguage": "Arduino C++",
-    "features": ["রিয়েল-টাইম SMS এলার্ট", "ডিজিটাল ডিসপ্লে মনিটরিং", "অটোমেটিক ফ্যান এক্সজস্ট কন্ট্রোল"]
+    "features": [
+      "রিয়েল-টাইম SMS এলার্ট",
+      "ডিজিটাল ডিসপ্লে মনিটরিং",
+      "অটোমেটিক ফ্যান এক্সজস্ট কন্ট্রোল"
+    ]
   },
   {
     "id": "robot_007",
@@ -54,10 +95,20 @@
     "imageUrl": "https://i.ibb.co.com/qzd12vH/image.png",
     "difficulty": "Intermediate",
     "application": "পরিবেশ পর্যবেক্ষণ, কৃষি প্রযুক্তি",
-    "components": ["NodeMCU (ESP8266)", "DHT22 Sensor", "BMP280 Pressure Sensor", "Rain Sensor", "OLED Display"],
+    "components": [
+      "NodeMCU (ESP8266)",
+      "DHT22 Sensor",
+      "BMP280 Pressure Sensor",
+      "Rain Sensor",
+      "OLED Display"
+    ],
     "voltage": "3.3V-5V",
     "programmingLanguage": "Arduino C++",
-    "features": ["অনলাইন ডেটা লগিং (ThingSpeak)", "ব্যাটারি চালিত", "কমপ্যাক্ট ডিজাইন"]
+    "features": [
+      "অনলাইন ডেটা লগিং (ThingSpeak)",
+      "ব্যাটারি চালিত",
+      "কমপ্যাক্ট ডিজাইন"
+    ]
   },
   {
     "id": "robot_008",
@@ -66,10 +117,20 @@
     "imageUrl": "https://i.ibb.co.com/67M2H7Q8/image.png",
     "difficulty": "Advanced",
     "application": "সিকিউরিটি সিস্টেম, স্মার্ট অফিস",
-    "components": ["Arduino Nano", "R307 Optical Fingerprint Sensor", "12V Solenoid Door Lock", "Relay Module", "Buzzer"],
+    "components": [
+      "Arduino Nano",
+      "R307 Optical Fingerprint Sensor",
+      "12V Solenoid Door Lock",
+      "Relay Module",
+      "Buzzer"
+    ],
     "voltage": "12V",
     "programmingLanguage": "Arduino C++",
-    "features": ["একাধিক ফিঙ্গারপ্রিন্ট স্টোরেজ", "ভুল ফিঙ্গারপ্রিন্ট এলার্ম", "এডমিন মোড এক্সেস"]
+    "features": [
+      "একাধিক ফিঙ্গারপ্রিন্ট স্টোরেজ",
+      "ভুল ফিঙ্গারপ্রিন্ট এলার্ম",
+      "এডমিন মোড এক্সেস"
+    ]
   },
   {
     "id": "robot_009",
@@ -78,10 +139,20 @@
     "imageUrl": "https://i.ibb.co.com/s74pMx7/image.png",
     "difficulty": "Advanced",
     "application": "পার্সোনাল ট্রান্সপোর্টেশন, ব্যালেন্সিং সিস্টেম",
-    "components": ["Arduino Uno", "MPU6050 Accelerometer/Gyro", "NEMA 17 Stepper Motors x2", "A4988 Motor Driver", "Sturdy Frame"],
+    "components": [
+      "Arduino Uno",
+      "MPU6050 Accelerometer/Gyro",
+      "NEMA 17 Stepper Motors x2",
+      "A4988 Motor Driver",
+      "Sturdy Frame"
+    ],
     "voltage": "11.1V (Li-Po)",
     "programmingLanguage": "Arduino C++",
-    "features": ["PID এলগরিদম ব্যবহার", "রিয়েল-টাইম স্ট্যাবিলিটি", "স্মার্টফোন কন্ট্রোল (ঐচ্ছিক)"]
+    "features": [
+      "PID এলগরিদম ব্যবহার",
+      "রিয়েল-টাইম স্ট্যাবিলিটি",
+      "স্মার্টফোন কন্ট্রোল (ঐচ্ছিক)"
+    ]
   },
   {
     "id": "robot_010",
@@ -90,10 +161,20 @@
     "imageUrl": "https://i.ibb.co.com/FqzJbc7r/image.png",
     "difficulty": "Beginner",
     "application": "আধুনিক কৃষি, ছাদ বাগান",
-    "components": ["Arduino Uno", "Soil Moisture Sensor", "Submersible Water Pump", "Relay Module", "Water Tank"],
+    "components": [
+      "Arduino Uno",
+      "Soil Moisture Sensor",
+      "Submersible Water Pump",
+      "Relay Module",
+      "Water Tank"
+    ],
     "voltage": "5V-9V",
     "programmingLanguage": "Arduino C++",
-    "features": ["অটোমেটিক পাম্প কন্ট্রোল", "লো-ওয়াটার লেভেল এলার্ট", "ম্যানুয়াল ওভাররাইড সুইচ"]
+    "features": [
+      "অটোমেটিক পাম্প কন্ট্রোল",
+      "লো-ওয়াটার লেভেল এলার্ট",
+      "ম্যানুয়াল ওভাররাইড সুইচ"
+    ]
   },
   {
     "id": "robot_011",
@@ -102,10 +183,20 @@
     "imageUrl": "https://i.ibb.co.com/fYZQqKQ9/image.png",
     "difficulty": "Advanced",
     "application": "সার্চ অ্যান্ড রেসকিউ, এডভান্সড কাইনেমেটিক্স",
-    "components": ["Arduino Mega", "MG996R High Torque Servos x18", "PCA9685 PWM Driver", "Bluetooth Module", "3D Printed Body"],
+    "components": [
+      "Arduino Mega",
+      "MG996R High Torque Servos x18",
+      "PCA9685 PWM Driver",
+      "Bluetooth Module",
+      "3D Printed Body"
+    ],
     "voltage": "6V-7.4V",
     "programmingLanguage": "Arduino C++",
-    "features": ["জটিল কাইনেমেটিক্স মুভমেন্ট", "একাধিক ওয়াকিং প্যাটার্ন", "রিমোট কন্ট্রোল অপারেশন"]
+    "features": [
+      "জটিল কাইনেমেটিক্স মুভমেন্ট",
+      "একাধিক ওয়াকিং প্যাটার্ন",
+      "রিমোট কন্ট্রোল অপারেশন"
+    ]
   },
   {
     "id": "robot_012",
@@ -114,9 +205,51 @@
     "imageUrl": "https://i.ibb.co.com/1fL527fW/image.png",
     "difficulty": "Intermediate",
     "application": "হিউম্যান-মেশিন ইন্টারঅ্যাকশন",
-    "components": ["Arduino Uno x2", "ADXL345 Accelerometer", "NRF24L01 Wireless Module", "L298N Driver", "Motors & Wheels"],
+    "components": [
+      "Arduino Uno x2",
+      "ADXL345 Accelerometer",
+      "NRF24L01 Wireless Module",
+      "L298N Driver",
+      "Motors & Wheels"
+    ],
     "voltage": "9V",
     "programmingLanguage": "Arduino C++",
-    "features": ["ওয়্যারলেস কন্ট্রোল (RF)", "ইনটুইটিভ ইউজার ইন্টারফেস", "দ্রুত রেসপন্স টাইম"]
-  }
+    "features": [
+      "ওয়্যারলেস কন্ট্রোল (RF)",
+      "ইনটুইটিভ ইউজার ইন্টারফেস",
+      "দ্রুত রেসপন্স টাইম"
+    ]
+  },
+  {
+    "id": "ram_013",
+    "title": "LPDDR5 16GB 6400MHz",
+    "description": "ল্যাপটপ এবং মোবাইল ডিভাইসের জন্য ডিজাইন করা লো পাওয়ার ডিডিআর৫ RAM। উল্লেখযোগ্যভাবে বেশি ব্যান্ডউইথ এবং শক্তি দক্ষতা।",
+    "imageUrl": "https://i.ibb.co.com/XrgnpW4X/image.png",
+    "difficulty": "Intermediate",
+    "application": "হাই-এন্ড ল্যাপটপ, স্মার্টফোন, ট্যাবলেট",
+    "components": [
+      "LPDDR5 Memory Die",
+      "BGA Package",
+      "Controller"
+    ],
+    "voltage": "1.1V",
+    "programmingLanguage": "N/A",
+    "features": [
+      "ডেটা রেট 6400 Mbps",
+      "ডিপ পাওয়ার স্টেট",
+      "অন-ডাই ECC"
+    ]
+  },
+  {
+  "id": "ram_001",
+  "title": "DDR4 8GB 3200MHz",
+  "description": "উচ্চ পারফরম্যান্স গেমিং এবং মাল্টিটাস্কিং এর জন্য আদর্শ RAM। কম লেটেন্সি এবং দ্রুত ডেটা ট্রান্সফার রেট।",
+  "imageUrl": "https://i.ibb.co.com/rK90vn1G/image.png",
+  "difficulty": "Beginner",
+  "application": "গেমিং পিসি, ওয়ার্কস্টেশন, সার্ভার",
+  "components": ["Memory Chip", "Heat Spreader", "PCB Board"],
+  "voltage": "1.2V",
+  "programmingLanguage": "N/A",
+  "features": ["XMP 2.0 সাপোর্ট", "কম পাওয়ার কনজাম্পশন", "হাই ক্লক স্পিড"]
+}
 ]

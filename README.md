@@ -4,6 +4,9 @@ TeachLab is a comprehensive educational platform designed to empower educators w
 
 Live URL : https://teachlab-b8fa1.web.app
 
+presentation URL : https://www.canva.com/design/DAG1yqUUYzo/FFMPm9hOdKa4IIu_YqAiUw/view?utm_content=DAG1yqUUYzo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h900de1d648
+
+
 ## 🚀 Features
 
 ### Core Features
